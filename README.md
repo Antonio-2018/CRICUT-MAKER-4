@@ -1,4 +1,4 @@
-# Cricut Makr 4
+# Cricut Maker 4
 
 * Unboxing Cricut Maker 4 amb el kit  d’eines i materials d’inici “Essentials Bundle”.
 * Tutorial d'inici.
